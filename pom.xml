@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.eclub</groupId>
 	<artifactId>pruebaTecnica</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>Release-0.0.1</version>
 	<name>pruebaTecnica</name>
 	<description>Prueba tecnicaEclub</description>
 	<properties>
